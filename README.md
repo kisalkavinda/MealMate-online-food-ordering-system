@@ -29,4 +29,4 @@ This system allows customers to browse a restaurant’s menu, place orders onlin
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/yourusername/food-ordering-system.git
+   git clone https://github.com/kisalkavinda/MealMate-online-food-ordering-system.git
