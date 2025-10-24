@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍽️ Food Ordering System
 
 A dynamic web-based food ordering system built using **PHP**, **MySQL**, **HTML**, **CSS**, and **JavaScript**.  
@@ -30,3 +31,7 @@ This system allows customers to browse a restaurant’s menu, place orders onlin
 1. **Clone this repository**
    ```bash
    git clone https://github.com/kisalkavinda/MealMate-online-food-ordering-system.git
+=======
+# MealMate-online-food-ordering-system
+Full-stack Online Food Ordering System (HTML, CSS, JS, PHP, MySQL)
+>>>>>>> 605ba6f (Initial commit)
